@@ -1,4 +1,4 @@
 unity3d_bootstrap
 =================
 
-Bootstrap project for a Unity3D game
+Bootstrap project for 2D Unity3D game
